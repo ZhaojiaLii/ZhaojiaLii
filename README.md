@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on ByteDance
+🔭 I’m currently working at ByteDance as a Front-End dev
+🌱 I just migrated from TikTok E-commerce to TikTok creator ecosystem business
 <!--
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaojiaLii&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning ...
