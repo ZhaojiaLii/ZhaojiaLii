@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Tiktok as a Front-End dev
-- 🌱 I just migrated from TikTok E-commerce to TikTok creator ecosystem business
+- 🔭 I’m currently working at Tiktok creator ecosystem business as a Front-End dev
+- 😄 Can just call me Sleepy
 <!--
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaojiaLii&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning ...
