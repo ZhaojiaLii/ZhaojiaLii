@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Tiktok creator ecosystem business as a Front-End dev
-- 😄 Can just call me Sleepy
+- 🔭 Front-End dev
+- 😄 Can call me Sleepy
 <!--
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhaojiaLii&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning ...
